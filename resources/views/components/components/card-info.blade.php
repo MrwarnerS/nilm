@@ -1,0 +1,4 @@
+<div>
+    {!! $nombre !!}
+    {!! $contenido !!}
+</div>
